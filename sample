@@ -1,0 +1,5 @@
+Car,C001,Toyota Camry,180.0,4,46.0,2,60.0,false
+Truck,T001,Ford F-150,120.0,6,87.5,1500.0,100.0,false
+Bus,B001,Volvo Bus,100.0,6,145.0,20,0.0,50.0,false
+Airplane,A001,Boeing 737,850.0,35000.0,4900.0,100,2000.0,500.0,false
+CargoShip,S001,Maersk Container,50.0,false,1950.0,8000.0,200.0,false

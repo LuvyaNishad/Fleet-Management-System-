@@ -1,0 +1,21 @@
+# Java / IntelliJ
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+/.idea
+/out/
+/target/
+/bin/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Build files
+build/
